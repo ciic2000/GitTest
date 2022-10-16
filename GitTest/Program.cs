@@ -9,6 +9,7 @@ namespace GitTest
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("first change made by oiio01");
+            Console.WriteLine("first change made by oiio02");
         }
     }
 }
