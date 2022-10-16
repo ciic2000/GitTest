@@ -7,6 +7,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("first change made by oiio01");
         }
     }
 }
